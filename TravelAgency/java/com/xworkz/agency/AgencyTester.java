@@ -1,6 +1,7 @@
 package com.xworkz.agency;
 
 import com.xworkz.agency.contract.RedbusContract;
+import com.xworkz.agency.redbus.TravelAgency;
 import com.xworkz.agency.vrl.RedbusContractImplementor;
 
 public class AgencyTester {
